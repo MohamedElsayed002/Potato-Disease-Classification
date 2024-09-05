@@ -33,3 +33,4 @@ This project was developed from scratch to assist farmers and agricultural profe
    cd frontend
    npm run install
    npm run start
+2. To run the backend. api directory and run the file main.py
