@@ -31,3 +31,5 @@ This project was developed from scratch to assist farmers and agricultural profe
 1. Navigate to the frontend directory:
    ```bash
    cd frontend
+   npm run install
+   npm run start
